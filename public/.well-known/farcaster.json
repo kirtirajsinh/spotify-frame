@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjgxODc5OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQ4RDgzMDdEZWFmQTdmNzllOUY3ZjUwZjVBMzU4ZTg0RDdFZjUyRTEifQ",
+    "payload": "eyJkb21haW4iOiJwdXJwbGUtcGVvcGxlLnZlcmNlbC5hcHAifQ",
+    "signature": "MHgwOTVhMDQwNWVlYjMzMjI1ZjY1MzA4MzQxZTY4NzBiMjlhYjcwNGQ3YmM4ZjUwNmNlNjI4ODYxMDRkMGIzYjM1NGIwNmM5YTQ1ZWU0YTEzYTVjNTBmNzA4ODkxYTI5Y2I4YzgzZGRjMzNjN2E2ZjBmZmEwN2IzOWUyZDkwNGU4MTFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://purple-people.vercel.app/icon.png",
+    "homeUrl": "https://purple-people.vercel.app",
+    "imageUrl": "https://purple-people.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://purple-people.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff"
+  }
+}
